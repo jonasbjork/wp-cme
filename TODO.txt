@@ -1,0 +1,3 @@
+
+* Välja vilka kategorier som skall postas.
+* Välja om man vill posta hela inlägget, eller bara första stycket.
